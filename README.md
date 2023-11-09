@@ -4,3 +4,4 @@
 
 * usando git push e enviando dados para github
 * comando git pull
+* comando git fetch
